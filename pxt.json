@@ -1,0 +1,20 @@
+{
+    "name": "exttestc",
+    "version": "3.9.0",
+    "description": "test for calliope extensions-v390.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "exttestc.ts",
+        "exttestc.cpp",
+        "etutils.h",
+        "etutils.cpp",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [],
+    "public": true
+}
