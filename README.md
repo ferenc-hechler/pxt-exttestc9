@@ -125,6 +125,9 @@ fixed wrong call to float2char
 
 renamed methods log() / logInt() to et_log() and et_log_int()
 
++ CALLIOPE FULL
+- MICROBIT HW
+
 
 ## ~ hint
 
